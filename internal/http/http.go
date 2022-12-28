@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/firefart/websitewatcher/internal/logger"
+	"github.com/trhacknon/websitewatcher/internal/logger"
 )
 
 type HTTPClient struct {
