@@ -1,4 +1,4 @@
-module github.com/firefart/websitewatcher
+module github.com/trhacknon/websitewatcher
 
 go 1.19
 
