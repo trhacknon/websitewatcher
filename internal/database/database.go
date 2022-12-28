@@ -5,9 +5,9 @@ import (
 	"os"
 	"sync"
 
-	"github.com/firefart/websitewatcher/internal/config"
-	"github.com/firefart/websitewatcher/internal/logger"
-	"github.com/firefart/websitewatcher/internal/pb"
+	"github.com/trhacknon/websitewatcher/internal/config"
+	"github.com/trhacknon/websitewatcher/internal/logger"
+	"github.com/trhacknon/websitewatcher/internal/pb"
 	"google.golang.org/protobuf/proto"
 )
 
