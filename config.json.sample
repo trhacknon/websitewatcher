@@ -4,9 +4,9 @@
     "port": 25,
     "from": {
       "name": "websitewatcher",
-      "mail": "a@a.com"
+      "mail": "trhacknon@gmail.com"
     },
-    "to": ["bbb@bbb.com", "ccc@ccc.com"],
+    "to": ["jeremydiliotti@gmail.com", "jelenacornut@gmail.com"],
     "skiptls": true,
     "user": "",
     "password": ""
@@ -21,11 +21,11 @@
   "watches": [{
       "name": "aaa",
       "url": "http://aaa.com",
-      "additional_to": ["ddd@ddd.com", "eee@eee.com"],
+      "additional_to": ["justinacabadabra@gmail.com", "justwobot@gmail.com"],
       "additional_http_errors_to_ignore": [500]
     },
     {
-      "name": "bbb",
+      "name": "trhacknon",
       "url": "http://bbb.com",
       "disabled": true,
       "pattern": "test = (.+)",
