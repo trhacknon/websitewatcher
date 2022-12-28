@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/http"
 
-	http2 "github.com/firefart/websitewatcher/internal/http"
+	http2 "github.com/trhacknon/websitewatcher/internal/http"
 	"github.com/sergi/go-diff/diffmatchpatch"
 )
 
