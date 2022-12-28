@@ -14,11 +14,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/firefart/websitewatcher/internal/config"
-	"github.com/firefart/websitewatcher/internal/database"
-	"github.com/firefart/websitewatcher/internal/diff"
-	"github.com/firefart/websitewatcher/internal/http"
-	"github.com/firefart/websitewatcher/internal/mail"
+	"github.com/trhacknon/websitewatcher/internal/config"
+	"github.com/trhacknon/websitewatcher/internal/database"
+	"github.com/trhacknon/websitewatcher/internal/diff"
+	"github.com/trhacknon/websitewatcher/internal/http"
+	"github.com/trhacknon/websitewatcher/internal/mail"
 	"golang.org/x/sync/semaphore"
 
 	"github.com/sirupsen/logrus"
