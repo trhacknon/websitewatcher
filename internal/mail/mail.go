@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	"fmt"
 
-	"github.com/firefart/websitewatcher/internal/config"
+	"github.com/trhacknon/websitewatcher/internal/config"
 	gomail "gopkg.in/mail.v2"
 )
 
