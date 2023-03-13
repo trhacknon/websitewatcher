@@ -26,7 +26,7 @@
     },
     {
       "name": "trhacknon",
-      "url": "http://bbb.com",
+      "url": "https://qanon-france.com",
       "disabled": true,
       "pattern": "test = (.+)",
       "replaces": [
